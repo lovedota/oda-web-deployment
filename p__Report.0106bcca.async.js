@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{bUpz:function(M,n,t){"use strict";t.r(n);var _=t("q1tI"),D=t.n(_),a=t("Hx5s"),O=t("9kvl"),E=t("nKUr"),P=t.n(E);n.default=function(){var s=Object(O.h)();return Object(E.jsx)(a.a,{content:s.formatMessage({id:"pages.report.subTitle"})})}}}]);

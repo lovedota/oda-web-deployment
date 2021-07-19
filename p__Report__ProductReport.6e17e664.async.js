@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{MTgb:function(O,n,t){"use strict";t.r(n);var _=t("q1tI"),o=t.n(_),a=t("Hx5s"),r=t("9kvl"),E=t("nKUr"),s=t.n(E);n.default=function(){var M=Object(r.h)();return Object(E.jsx)(a.a,{title:M.formatMessage({id:"pages.report.productsReport.title"}),children:"Supplier Report"})}}}]);
